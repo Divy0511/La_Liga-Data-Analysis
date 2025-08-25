@@ -75,7 +75,3 @@ Steps followed to generate the predictions and insights:
 * Sevilla & Villarreal expected to fight for European spots.
 * Oviedo enters La Liga with no historical baseline.
 * Elche & Mallorca face highest relegation risks.
-
----
-
-Would you like me to also **include visuals/graphs from the notebook** (like bar plots of win % or points requirements) in the README, or keep it text + tables only?
