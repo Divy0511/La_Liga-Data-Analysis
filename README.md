@@ -1,17 +1,5 @@
 # La_Liga-Data-Analysis
 
-
-Great — I found the **predicted La Liga 25/26 table** and all your analysis steps in the notebook.
-I’ll create a clean **README.md** for GitHub with:
-
-* Predicted table at the top (as requested)
-* Step-by-step methodology
-* Key insights/results
-
-Here’s a draft:
-
----
-
 # 📊 La Liga Title & Performance Analysis (2014–2025)
 
 ## 🔮 Predicted La Liga 25/26 Table
